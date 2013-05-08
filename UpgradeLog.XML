@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="npsafeinput">
+</Property><Property Name="Solution File" Value="D:\MyProject\npsafeinput\npsafeinput.sln">
+</Property><Property Name="Date" Value="2011年12月16日">
+</Property><Property Name="Time" Value="11:26:53">
+</Property></Properties><Event ErrorLevel="0" Project="npsafeinput" Source="npsafeinput.vcproj" Description="Converting project file 'D:\MyProject\npsafeinput\npsafeinput.vcproj'.">
+</Event><Event ErrorLevel="1" Project="npsafeinput" Source="npsafeinput.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="npsafeinput" Source="npsafeinput.vcproj" Description="MSB8012: $(TargetPath) ('D:\MyProject\npsafeinput\Debug\npsafeinput.dll') does not match the Linker's OutputFile property value 'D:\Program Files\Mozilla Firefox\plugins\npsafeinput.dll' ('D:\Program Files\Mozilla Firefox\plugins\npsafeinput.dll') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Link.OutputFile).">
+</Event><Event ErrorLevel="0" Project="npsafeinput" Source="npsafeinput.vcproj" Description="Done converting to new project file 'D:\MyProject\npsafeinput\npsafeinput.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="npsafeinput" Source="npsafeinput.vcproj" Description="Converted">
+</Event></UpgradeLog>

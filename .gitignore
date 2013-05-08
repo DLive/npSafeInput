@@ -11,3 +11,13 @@
 *.lai
 *.la
 *.a
+
+.DS_Store
+
+.UpgradeLog.XML.swp
+
+*.dll
+
+*.exe
+
+*.user
